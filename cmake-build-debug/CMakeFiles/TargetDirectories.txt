@@ -1,0 +1,4 @@
+E:/Users/David/Desktop/Mall-practiceCLONE/cmake-build-debug/CMakeFiles/main.dir
+E:/Users/David/Desktop/Mall-practiceCLONE/cmake-build-debug/CMakeFiles/copy-compile-commands.dir
+E:/Users/David/Desktop/Mall-practiceCLONE/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Users/David/Desktop/Mall-practiceCLONE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

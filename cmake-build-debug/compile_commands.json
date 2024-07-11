@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/Users/David/Desktop/Mall-practiceCLONE/cmake-build-debug",
+  "command": "\"E:\\Apps\\CLion 2024.1.1\\bin\\mingw\\bin\\g++.exe\" -IE:/Users/David/Desktop/Mall-practiceCLONE/include -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/include\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/x86_64-w64-mingw32/include\" -g -O0 -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\main.dir\\src\\Contiendas.cpp.obj -c E:\\Users\\David\\Desktop\\Mall-practiceCLONE\\src\\Contiendas.cpp",
+  "file": "E:\\Users\\David\\Desktop\\Mall-practiceCLONE\\src\\Contiendas.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\Contiendas.cpp.obj"
+},
+{
+  "directory": "E:/Users/David/Desktop/Mall-practiceCLONE/cmake-build-debug",
+  "command": "\"E:\\Apps\\CLion 2024.1.1\\bin\\mingw\\bin\\g++.exe\" -IE:/Users/David/Desktop/Mall-practiceCLONE/include -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/include\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed\" -isystem \"E:/Apps/CLion 2024.1.1/bin/mingw/x86_64-w64-mingw32/include\" -g -O0 -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c E:\\Users\\David\\Desktop\\Mall-practiceCLONE\\src\\main.cpp",
+  "file": "E:\\Users\\David\\Desktop\\Mall-practiceCLONE\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+}
+]
